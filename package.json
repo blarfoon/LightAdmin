@@ -1,0 +1,19 @@
+{
+  "name": "lightadmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^0.8.0",
+    "express": "^4.16.1",
+    "is-admin": "^2.1.1",
+    "is-elevated": "^2.0.1",
+    "socket.io": "^2.0.3",
+    "systeminformation": "^3.30.6"
+  }
+}
